@@ -1,0 +1,141 @@
+body{
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1{
+    color:rgb(3, 49, 34);
+    margin-top: 50px;
+    margin-bottom: 5px;
+    font-family: 'Sacramento', cursive;
+    font-size:50px;
+}
+
+.top-container{
+   background-color:rgb(190, 245, 211);
+   height: 545px;
+   padding-top: 100px;
+   margin-bottom:10%;
+   
+
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 29px;
+}
+
+
+
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top:270px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:35px; 
+}
+
+.mountain{
+    position:relative;
+    top:10px;
+    
+}
+
+h3{
+    color: #11999E;
+    margin-bottom:10px;
+}
+
+a{
+    color: #11999E;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Monteserrat', sans-serif;
+    
+}
+
+.skill-row{
+    width:50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 5%;
+}
+
+.btn{
+    
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+      
+}
+
+.bottom-container{
+    margin-top: 10%;
+    background-color: #66BFBF;
+    padding-top: 34px;
+    padding-bottom: 18px;
+}
+
+.footer-link{
+    font-family: 'Monteserrat', sans-serif;
+    color:#11999E;
+    position:relative;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.bottom{
+    color: #EAF6F6;
+    padding: 10px 0 0 6px;
+    font-size: 0.75rem;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+}

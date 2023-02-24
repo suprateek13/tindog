@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+div{
+   background-color:rgb(190, 245, 211);
+
+}
+
+p{
+    margin-top: 0;
+}
+
+.top-container{
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+}
+
+.middle-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 219px;
+    border: solid 20px;
+}
+
+.bottom-container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-left: 459px;
+    border: solid 10px;
+}
